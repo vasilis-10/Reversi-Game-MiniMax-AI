@@ -26,7 +26,6 @@ This repository contains a Java implementation of the classic board game Othello
 - A simple class representing a move in the game, including its coordinates and evaluated value.
 
 ## How to Play
-- Compile the Java files and run `Main.java`.
 - Choose whether you want to play first and set the depth for the AI's search algorithm (1 to 10).
 - Play by making moves on the board. The AI will make its moves in response.
 - The game ends when no more valid moves are available for either player.
